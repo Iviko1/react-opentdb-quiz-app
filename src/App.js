@@ -21,7 +21,7 @@ const App = () => {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react-opentdb-quiz-app">
       <GlobalStyle />
       <Container>
         <Routes>
