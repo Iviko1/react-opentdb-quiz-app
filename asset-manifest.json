@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-opentdb-quiz-app/static/js/main.107308a3.chunk.js",
+    "main.js.map": "/react-opentdb-quiz-app/static/js/main.107308a3.chunk.js.map",
+    "runtime-main.js": "/react-opentdb-quiz-app/static/js/runtime-main.07c0f5b4.js",
+    "runtime-main.js.map": "/react-opentdb-quiz-app/static/js/runtime-main.07c0f5b4.js.map",
+    "static/js/2.35c0982f.chunk.js": "/react-opentdb-quiz-app/static/js/2.35c0982f.chunk.js",
+    "static/js/2.35c0982f.chunk.js.map": "/react-opentdb-quiz-app/static/js/2.35c0982f.chunk.js.map",
+    "index.html": "/react-opentdb-quiz-app/index.html",
+    "static/js/2.35c0982f.chunk.js.LICENSE.txt": "/react-opentdb-quiz-app/static/js/2.35c0982f.chunk.js.LICENSE.txt",
+    "static/media/background.b21a67f9.jpg": "/react-opentdb-quiz-app/static/media/background.b21a67f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c0f5b4.js",
+    "static/js/2.35c0982f.chunk.js",
+    "static/js/main.107308a3.chunk.js"
+  ]
+}
