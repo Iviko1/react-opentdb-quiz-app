@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BrowserRouter as Routes, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import axios from "axios";
 import GlobalStyle from "./GlobalStyles";
 import { Container } from "./Components/Container/Container.styles";
@@ -21,7 +21,7 @@ const App = () => {
   };
 
   return (
-    <Routes basename="/react-opentdb-quiz-app">
+    <Router basename="/react-opentdb-quiz-app">
       <GlobalStyle />
       <Container>
         <Routes>
@@ -60,7 +60,7 @@ const App = () => {
           />
         </Routes>
       </Container>
-    </Routes>
+    </Router>
   );
 };
 
