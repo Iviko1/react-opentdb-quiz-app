@@ -13,7 +13,6 @@ const GlobalStyle = createGlobalStyle`
         
     }
 
-
     .correct{
         background-color: #23C552 !important;
         color: #232323 !important;
@@ -32,7 +31,6 @@ const GlobalStyle = createGlobalStyle`
         background-size: cover;
         background-color: rgba(255,255,255,0.25);
     }
-
 `;
 
 export default GlobalStyle;
